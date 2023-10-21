@@ -1,0 +1,52 @@
+body {
+    background: url('ristorante.jpg') no-repeat fixed;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+#menuContainer {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #80919e; /* Blu pallido */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(51, 195, 231, 0.932);
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    color: #000000; /* Blu acceso */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background: #aac2d6; /* Blu vivace */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+li:hover {
+    background: #748899; /* Blu più scuro al passaggio del mouse */
+}
+
+strong {
+    color: #141e2e;
+}
+
+ul ul {
+    margin-top: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+    border-left: 2px solid #5d7baf;
+    padding-left: 10px;
+}

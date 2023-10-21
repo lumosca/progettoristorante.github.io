@@ -1,0 +1,58 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #477cb1;
+    color: #333;
+}
+
+#piattoContainer {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #9c9c9c;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    color: #1e4a68;
+}
+
+#dettagliPiatto {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+#dettagliPiatto p {
+    margin: 0;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+#bottoneTornaAlMenu {
+    display: block; 
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #477cb1;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+#bottoneTornaAlMenu:hover {
+    background-color: #2c546e;
+}
+
+#immaginePiatto {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}

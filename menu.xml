@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <section categoria="Antipasti">
+        <piatto>
+            <nome>Bruschetta</nome>
+            <prezzo>5.99</prezzo>
+            <ingredienti>Pomodoro, pane, sale, aglio, basilico, olio d'oliva</ingredienti>
+            <immagine>bruschetta.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Mozzarella Caprese</nome>
+            <prezzo>7.99</prezzo>
+            <ingredienti>Mozzarella, pomodoro, basilico, olio d'oliva, sale</ingredienti>
+            <immagine>mozzarellacaprese.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Calamari Fritti con Gamberi</nome>
+            <prezzo>9.99</prezzo>
+            <ingredienti>Calamari, gamberi, sale, pepe, limone</ingredienti>
+            <immagine>calamarifrittijpg.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Prosciutto e Melone</nome>
+            <prezzo>8.99</prezzo>
+            <ingredienti>Prosciutto crudo, melone</ingredienti>
+            <immagine>prosciuttoemelone.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Insalata di Gamberi</nome>
+            <prezzo>10.99</prezzo>
+            <ingredienti>Gamberi, lattuga, pomodoro, cetrioli</ingredienti>
+            <immagine>insalatadigamberi.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Crostini ai Funghi</nome>
+            <prezzo>6.99</prezzo>
+            <ingredienti>Funghi, pane, olio d'oliva, aglio</ingredienti>
+            <immagine>crostiniaifunghi.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Caprese all'Avocado</nome>
+            <prezzo>11.99</prezzo>
+            <ingredienti>Avocado, mozzarella, pomodoro, basilico</ingredienti>
+            <immagine>capreseallavocado.jpg</immagine>
+        </piatto>
+    </section>
+    <section categoria="Primi Piatti">
+        <piatto>
+            <nome>Spaghetti alla Carbonara</nome>
+            <prezzo>8.99</prezzo>
+            <ingredienti>Spaghetti, uova, pancetta, pepe, formaggio</ingredienti>
+            <immagine>carbonara.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Risotto ai Funghi</nome>
+            <prezzo>10.99</prezzo>
+            <ingredienti>Riso, funghi, cipolla, brodo, vino bianco</ingredienti>
+            <immagine>risottoaifunghi.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Lasagne al Forno</nome>
+            <prezzo>12.99</prezzo>
+            <ingredienti>Pasta, ragù, besciamella, formaggio</ingredienti>
+            <immagine>lasagnealforno.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Penne all'Arrabbiata</nome>
+            <prezzo>9.99</prezzo>
+            <ingredienti>Penne, pomodoro, aglio, peperoncino</ingredienti>
+            <immagine>penneallarrabbiata.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Gnocchi alla Sorrentina</nome>
+            <prezzo>11.99</prezzo>
+            <ingredienti>Gnocchi, pomodoro, mozzarella, basilico</ingredienti>
+            <immagine>gnocchiallasorrentina.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Fettuccine Alfredo</nome>
+            <prezzo>10.99</prezzo>
+            <ingredienti>Fettuccine, panna, burro, parmigiano</ingredienti>
+            <immagine>fettuccinealfredo.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Tagliatelle al Ragu</nome>
+            <prezzo>13.99</prezzo>
+            <ingredienti>Tagliatelle, ragù di carne</ingredienti>
+            <immagine>tagliatellealragu.jpg</immagine>
+        </piatto>
+    </section>
+    <section categoria="Secondi Piatti">
+        <piatto>
+            <nome>Bistecca alla Griglia</nome>
+            <prezzo>15.99</prezzo>
+            <ingredienti>Bistecca di manzo, sale, pepe, olio d'oliva</ingredienti>
+            <immagine>bisteccaallagriglia.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Salmone al Limone</nome>
+            <prezzo>13.99</prezzo>
+            <ingredienti>Salmone, limone, olio d'oliva, erbe aromatiche</ingredienti>
+            <immagine>salmoneallimone.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Pollo Marsala</nome>
+            <prezzo>11.99</prezzo>
+            <ingredienti>Pollo, funghi, marsala, brodo di pollo</ingredienti>
+            <immagine>pollomarsala.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>FIletto di branzino in crosta di zucchine e carote </nome>
+            <prezzo>14.99</prezzo>
+            <ingredienti>Filetto di branzino, limone, olio d'oliva, prezzemolo, carote, zucchine</ingredienti>
+            <immagine>filettodibranzino.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Costolette d'Agnello</nome>
+            <prezzo>16.99</prezzo>
+            <ingredienti>Costolette d'agnello, rosmarino, aglio, olio d'oliva</ingredienti>
+            <immagine>costolettedagnello.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Medaglioni di Maiale</nome>
+            <prezzo>12.99</prezzo>
+            <ingredienti>Medaglioni di maiale, senape, miele, rosmarino</ingredienti>
+            <immagine>medaglionidimaiale.jpg</immagine>
+        </piatto>
+        <piatto>
+            <nome>Pesce Spada alla Griglia</nome>
+            <prezzo>17.99</prezzo>
+            <ingredienti>Pesce spada, limone, olio d'oliva, pepe</ingredienti>
+            <immagine>pescespadaallagriglia.jpg</immagine>
+        </piatto>
+    </section>
+</menu>
+ 
